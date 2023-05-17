@@ -20,10 +20,5 @@ We try to update our tool as often as possible to maintain optimization.
 ![alt text](https://cdn.discordapp.com/attachments/1091438072224292975/1099946163366535319/image.png)
 
 
-### 💸  Buying
-
-Telegram: @liftium
-
-**Price: 20$ Crypto** (Paypal 20,5$, only fnf telegram)
 
 
