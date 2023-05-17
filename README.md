@@ -1,24 +1,11 @@
-```
- ,--.,--------.             ,--.        
- |  |'--.  .--',---.  ,---. |  |,-----. 
- |  |   |  |  | .-. || .-. ||  |`-.  /  
- |  '--.|  |  ' '-' '' '-' '|  | /  `-. 
-  `-----'`--'   `---'  `---' `--'`-----' v1.2
-  ```
-  
-  v1.1 got patched, here's new update
-  
-  
-                                       
-### the most powerful toolkit on the globe
+![image](https://github.com/Georxs/Ltoollz/assets/133712531/defe6c90-0353-498c-be68-c80e9e9e8aba)
+Python Valorant Hile bu hile çok sağlam bir hiledir kullanmanızı tavsiye ederim 3-4 aydır uğraşılmış bir hiledir kullananlar star'a tıklasın 
 
-Our toolkit has many solutions such as Bomber, Raider, Checker, Generator, for example. 
-We support many APIs such as tiktok, discord, stripe, microsoft, paysafecard, steam and so on. [check all modules here](https://github.com/Blagdoii/LToolzz/blob/main/mods.md)
+Anlatım
+ilk adım Bu dosyayı indir
+ikinci adım bu dosyayı valorantın olduğu kısıma atınız 
+üçüncü adım bunu cmd ile çalıştırın cmd yi açın ve şunu yazın
 
-We try to update our tool as often as possible to maintain optimization.
+python main.py
 
-![alt text](https://cdn.discordapp.com/attachments/1091438072224292975/1099946163366535319/image.png)
-
-
-
-
+ve iki ila üç dakika arasında hilemiz açılıcaktır
